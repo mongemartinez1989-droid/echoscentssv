@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+
+# Project specific
+node_modules/
+.env
+config.js
